@@ -3,8 +3,6 @@
 
 🧑🏻‍🎓 Mestrando em Engenharia Elétrica com foco em ciência de dados
 
-🇧🇷 Brasileiro
-
 Atualmente estou:
 
 🎯 Buscando cada vez mais conhecimentos em Python para me tornar um ciêntista de dados.
