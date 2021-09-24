@@ -1,22 +1,27 @@
-## Olá! eu sou Vinícius Souza.
+## Olá! eu sou Vinícius Souza
+🧑🏻‍🎓 Formado em Engenharia Elétrica
 
-🎯 Buscando conhecimentos em Python para me tornar um ciêntista de dados
-
-📖 Estudando Machine Learning e Deep Learning
-
-🔌 Desenvolvedor de Hardware e Software
+🧑🏻‍🎓 Mestrando em Engenharia Elétrica com foco em ciência de dados
 
 🇧🇷 Brasileiro
 
+Atualmente estou:
 
-## Possuo conhecimento nos seguintes Sistemas Operacionais:
+🎯 Buscando cada vez mais conhecimentos em Python para me tornar um ciêntista de dados.
+
+📖 Estudando Machine Learning e Deep Learning.
+
+🔌 Desenvolvendo de Hardware Software.
+
+## 💻 Sistemas Operacionais:
 <div>
   <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'>
   <img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white'>
   <img src='https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white'>
+  <img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white'>
 </div>
 
-## Possuo conhecimento nas seguintes Linguagens de Programação:
+## 🚀 Habilidades:
 <div>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
   <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
@@ -26,6 +31,9 @@
   <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
   <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
   <img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'>  
+  <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
+  <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
+  <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
 </div>
 
 ## Contato:
