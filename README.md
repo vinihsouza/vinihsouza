@@ -9,7 +9,7 @@ Atualmente estou:
 
 📖 Estudando Machine Learning e Deep Learning.
 
-🔌 Desenvolvendo de Hardware Software.
+🔌 Desenvolvendo Hardware e Software.
 
 ## 💻 Sistemas Operacionais:
 <div>
