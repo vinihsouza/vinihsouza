@@ -16,16 +16,6 @@
   <img src='https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white'>
 </div>
 
-## Contato:
-<div>
-  <a href='https://www.linkedin.com/in/vinicius-souza-8a778a6b/' target='_blank'>
-    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'>
-  </a> 
-  <a href='mailto:vinicius.fersouza@gmail.com' target='_blank'>
-    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' target='_blank'>
-  </a>
-</div>
-
 ## Habilidades:
 <div>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
@@ -38,9 +28,12 @@
   <img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'>  
 </div>
 
-
-
-
-
-
-
+## Contato:
+<div>
+  <a href='https://www.linkedin.com/in/vinicius-souza-8a778a6b/' target='_blank'>
+    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'>
+  </a> 
+  <a href='mailto:vinicius.fersouza@gmail.com' target='_blank'>
+    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' target='_blank'>
+  </a>
+</div>
