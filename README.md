@@ -1,7 +1,7 @@
 ## Olá! eu sou Vinícius Souza
 🧑🏻‍🎓 Formado em Engenharia Elétrica
 
-🧑🏻‍🎓 Mestrando em Engenharia Elétrica com foco em ciência de dados
+🧑🏻‍🎓 Mestrando em Engenharia Elétrica
 
 Atualmente estou:
 
