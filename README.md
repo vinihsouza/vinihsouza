@@ -5,7 +5,7 @@
 
 Atualmente estou:
 
-🎯 Buscando cada vez mais conhecimentos em Python para me tornar um ciêntista de dados.
+🎯 Buscando cada vez mais conhecimentos em Python.
 
 📖 Estudando Machine Learning e Deep Learning.
 
