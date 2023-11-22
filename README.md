@@ -36,7 +36,7 @@ Atualmente estou:
 
 ## Contato:
 <div>
-  <a href='https://www.linkedin.com/in/vinicius-souza-8a778a6b/' target='_blank'>
+  <a href='https://www.linkedin.com/in/eng-viniciussouza/' target='_blank'>
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'>
   </a> 
   <a href='mailto:vinicius.fersouza@gmail.com' target='_blank'>
