@@ -1,17 +1,17 @@
-## Olá! eu sou Vinícius Souza
-🧑🏻‍🎓 Formado em Engenharia Elétrica
+## Hello! I am Vinícius Souza
+🧑🏻‍🎓 Graduated in Electrical Engineering
 
-🧑🏻‍🎓 Mestrando em Engenharia Elétrica
+🧑🏻‍🎓 Master's in Electrical Engineering
 
-Atualmente estou:
+I'm currently:
 
-🎯 Buscando cada vez mais conhecimentos em Python.
+🎯 Seeking more and more knowledge in C/C++ and Python
 
-📖 Estudando Machine Learning e Deep Learning.
+📖 Studying Machine Learning and Deep Learning.
 
-🔌 Desenvolvendo Hardware e Software.
+🔌 Developing Hardware and Firmware.
 
-## 💻 Sistemas Operacionais:
+## 💻 Operational systems:
 <div>
   <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'>
   <img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white'>
@@ -19,7 +19,7 @@ Atualmente estou:
   <img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white'>
 </div>
 
-## 🚀 Habilidades:
+## 🚀 Skills:
 <div>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
   <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
@@ -34,7 +34,7 @@ Atualmente estou:
   <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
 </div>
 
-## Contato:
+## Contact:
 <div>
   <a href='https://www.linkedin.com/in/eng-viniciussouza/' target='_blank'>
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'>
