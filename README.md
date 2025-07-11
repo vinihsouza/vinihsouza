@@ -1,7 +1,7 @@
 ## Hello! I am Vinícius Souza
 🧑🏻‍🎓 Graduated in Electrical Engineering
 
-🧑🏻‍🎓 Master's in Electrical Engineering in progress
+🧑🏻‍🎓 Master's in Electrical Engineering
 
 I'm currently:
 
